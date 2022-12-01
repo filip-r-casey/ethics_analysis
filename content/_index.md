@@ -110,8 +110,23 @@ ambiguity, while his point is clearly made through the language of his piece.
 
 Although Seigal undeniably believes that Willis should not be in the position
 that he is in, it seems to come from a place of malice, rather than a serious
-consideration of the complications of his mental illness. Regardless, this is an
-ethical artifact that deserves recognition, as it is reminiscent of the clumsy
+consideration of the complications of his mental illness. Seigal even seems to
+back this by appealing to the feelings described in Haidt's foundational moral
+value of Sanctity and Degradation:
+
+> This foundation was shaped by the psychology of disgust and contamination. It
+> underlies religious notions of striving to live in an elevated, less carnal,
+> more noble way. It underlies the widespread idea that the body is a temple
+> which can be desecrated by immoral activities and contaminants (an idea not
+> unique to religious traditions).
+
+Although the details here are not exactly linked to religion, his dehumanization
+of Willis, use of crude language, and moral deplatforming of those around him
+seem to portray Willis' situation as wholly unethical. Instead of simply
+pointing at the audience, Seigal employs this theory to call out the entire
+situation as an ethical nightmare.
+
+Regardless, this is an ethical artifact that deserves recognition, as it is reminiscent of the clumsy
 mental health discourse in Willis' life. It's actually difficult to find a piece
 from this time period published in a major newspaper that doesn't paint Willis'
 success or mental illness with disdain.
@@ -311,12 +326,29 @@ the purity that their father praised on its head, "But their purity is that of
 claustrophobia," it prompts a more conscious argument about the enjoyment of
 outsider art. Moreland argues that listening, or not listening, to an artist
 because of their troubling circumstances is irrelevant as long as their
-situation is treated with respect. He is also painfully aware that this is
-rarely the case: "Outsider artists are expected to possess a degree of
-unconsciousness that acts as a path into the profound psyche." Is it then more
-ethical to throw away the outsider label entirely and simply enjoying things for
-the virtue of enjoying them? Does this genre classification, and resulting freak
-show, cause more issue than if the ethical debate were not relevant at all?
+situation is treated with respect. This argument reflects utilitarian ideals
+like those established Jeremy Bentham in his greatest happiness theorem:
+
+>The creed which accepts as the foundation of morals utility, or the greatest
+>happiness principle, holds that actions are right in proportion as they tend to
+>promote happiness, wrong as they tend to produce the reverse of happiness. By
+>happiness is intended pleasure, and the absence of pain; by unhappiness, pain,
+>and the privation of pleasure.
+
+By this argument, the artist can be considered a just ethical figure as they are
+creating work with the intention of entertainment. The audience, however, can be
+seen as mostly unjust in this regard, especially in the situation of the Shaggs.
+Normally an audience would provide greater quality of life to an artist as a
+virtuous response to the enjoyment that they received. In this case, the sisters
+saw little to no money from the music, and faced more expectations and reminders
+of their trauma as a result of their tiny fame. Moreland's showcase of this,
+when analyzed with Bentham's theory, could argue that the audience is almost
+entirely unethical. He is also painfully aware that this is rarely the case:
+"Outsider artists are expected to possess a degree of unconsciousness that acts
+as a path into the profound psyche." Is it then more ethical to throw away the
+outsider label entirely and simply enjoying things for the virtue of enjoying
+them? Does this genre classification, and resulting freak show, cause more issue
+than if the ethical debate were not relevant at all?
 
 In perhaps the most concise ethical argument on The Shaggs', Howard Fishman finishes his New Yorker article about their last reunion performance with an anecdote from after the show:
 
@@ -374,3 +406,7 @@ treated as real imperfect people that they are.
 <https://www.theguardian.com/music/musicblog/2009/aug/10/daniel-johnston>
 
 <https://www.youtube.com/embed/XR9d4ESlpHY>
+
+<https://moralfoundations.org/>
+
+<https://www.investopedia.com/terms/u/utilitarianism.asp>

@@ -255,3 +255,5 @@ the dialogue around Johnston's agency in his career, make clear arguments about
 the morals of enjoying his work. He also presents an interesting case study for
 outsider music, as the quality is objectively higher than other artists and
 therefore creates an entirely different argument on the merit of enjoying him.
+
+## The Shaggs Involuntary Artistry

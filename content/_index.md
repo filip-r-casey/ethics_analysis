@@ -257,3 +257,6 @@ outsider music, as the quality is objectively higher than other artists and
 therefore creates an entirely different argument on the merit of enjoying him.
 
 ## The Shaggs Involuntary Artistry
+
+When the members of the Shaggs, three sisters, were in their adolescence, there
+father had a vision that they would grow up to be rock stars.
